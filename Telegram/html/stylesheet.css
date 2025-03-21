@@ -1,0 +1,145 @@
+/* style.css */
+
+/* Centrer la lettre au milieu de l'écran */
+.body{
+
+}
+
+@font-face {
+    font-family: 'chineserocksrg';
+    src:url('chineser-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#letter {
+  position: absolute;
+  bottom: -250px;
+  right: -150px;
+  transform: translate(-50%, -50%);
+  width: 350px;
+  height: 60%;
+  background: #fefdeb;
+  border: 2px solid #333;
+  padding-left: 100px;
+  padding-top: 30px;
+  margin: 5px;
+  text-align: left;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+  overflow: clip;
+}
+
+#date {
+  position:relative;
+  transform: translate(-50%, -50%);
+  top: 15px;
+  width: 40%;
+  height: 5%;
+  background: #fefdeb;
+  border: 2px solid #333;
+  padding: 10px;
+  margin: 5px;
+  text-align: left;
+  font-size:16px;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+}
+
+#localisation {
+  position: relative;
+  top:-13px;
+  left: 18px;
+  transform: translate(-50%, -50%);
+  width: 20%;
+  height: 10%;
+  background: translate;
+  padding: 0px;
+  margin: 5px;
+  text-align: left;
+  font-size:16px;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+}
+
+#subject {
+  position: relative;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 5%;
+  top:-54px;
+  left:100px;
+  background: #fefdeb;
+  border: 2px solid #333;
+  padding: 5px;
+  margin: 5px;
+  margin-top: auto;
+  margin-bottom:auto;
+  text-align: left;
+  font-size:20px;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+}
+
+#message {
+  position: relative;
+  top:130px;
+  left:100px;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 60%;
+  background: transparent;
+  border: 2px solid #333;
+  padding: 5px;
+  margin: 5px;
+  text-align: left;
+  font-size:20px;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+}
+
+#signature {
+  position:relative;
+  bottom:0px;
+  left:150px;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 5%;
+  background: #fefdeb;
+  padding: 5px;
+  margin: 5px;
+  text-align: right;
+  font-size:16px;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+}
+
+#ticket {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 50px;
+  background: #fefdeb;
+  border: 2px solid #333;
+  padding: 10px;
+  margin: 10px;
+  text-align: left;
+  font-family: 'chineserocksrg';
+  font-stretch: expanded;
+  font-weight: lighter;
+  align-content: center;
+  overflow: clip;
