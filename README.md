@@ -41,6 +41,8 @@ Drag&drop the folder in your server resources directory
 
 # IN GAME :
 
+[![Telegram system for vorp](http://img.youtube.com/vi/o5daMYcmPSE/0.jpg)]([http://www.youtube.com/watch?v=o5daMYcmPSE](https://www.youtube.com/watch?v=AXtKmKnOoNw) "Telegram system for vorp") - Showcase
+
 https://www.youtube.com/watch?v=AXtKmKnOoNw
 
 # UPDATES :
