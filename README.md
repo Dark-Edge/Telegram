@@ -43,8 +43,6 @@ Drag&drop the folder in your server resources directory
 
 https://www.youtube.com/watch?v=AXtKmKnOoNw
 
-https://github.com/Dark-Edge/Telegram
-
 # UPDATES :
 
 * V0.0.1 : First commit
